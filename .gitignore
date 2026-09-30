@@ -1,0 +1,47 @@
+# Large model weights and checkpoints (DO NOT COMMIT)
+models/
+*/models/
+*.safetensors
+*.safetensors.*
+*.bin
+*.pt
+*.pth
+*.onnx
+*.gguf
+*.mlx
+*.h5
+*.tflite
+*.disabled
+
+# Python Virtual Environments
+.venv/
+venv/
+env/
+.env
+*.env/
+mlx-env/
+.mlx-env/
+qwen-mlx-venv/
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.mypy_cache/
+
+# macOS System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Logs & Temporary files
+*.log
+logs/
+scratch/
+tmp/
+*.swp
+*.swo
