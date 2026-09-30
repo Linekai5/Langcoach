@@ -1,4 +1,4 @@
-# MLX Gemma Studio
+# Langcoach
 
 > **Status:** 🚧 **Active Development (Work-in-Progress)**  
 > *A native Apple Silicon desktop and terminal interface for running quantized Google Gemma models locally at high speeds using Apple MLX.*
@@ -7,7 +7,7 @@
 
 ## 📖 Overview
 
-**MLX Gemma Studio** is an open-source, local inference UI and CLI runner tailored for Apple Silicon (M1/M2/M3/M4). Powered by Apple's [MLX](https://github.com/ml-explore/mlx) framework, it takes full advantage of Unified Memory Architecture to run local Gemma LLMs with zero server overhead and low latency.
+**Langcoach** is an open-source, local inference UI and CLI runner tailored for Apple Silicon (M1/M2/M3/M4). Powered by Apple's [MLX](https://github.com/ml-explore/mlx) framework, it takes full advantage of Unified Memory Architecture to run local Gemma LLMs with zero server overhead and low latency.
 
 ---
 
@@ -62,8 +62,8 @@ The application automatically checks for model checkpoints in:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/AIkai1/mlx-gemma-studio.git
-   cd mlx-gemma-studio
+   git clone https://github.com/AIkai1/Langcoach.git
+   cd Langcoach
    ```
 
 2. **Create and activate a virtual environment:**
