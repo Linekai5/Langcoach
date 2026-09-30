@@ -62,7 +62,7 @@ The application automatically checks for model checkpoints in:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/AIkai1/Langcoach.git
+   git clone https://github.com/Linekai5/Langcoach.git
    cd Langcoach
    ```
 
